@@ -86,7 +86,7 @@ print("Winner:", "O" if win('O') else "X" if win('X') else "Draw")
 ```
 
 <hr>
-<h2>Input and Output</h2>
+<h2> Output</h2>
 
 <img width="229" height="415" alt="image" src="https://github.com/user-attachments/assets/e45a29fb-17fb-4130-b6a3-9b1fa4cda007" />
 
